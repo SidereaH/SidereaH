@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Java Spring Framework
 - 🔭 Student from Rostov-on-Don, 17 y.o.
-- ✨ Backend, DevOps practice, OS - Fedora, IDE - NeoVim ❤️
+- ✨ Backend, DevOps practice, OS - Fedora, IDE - Lazy NeoVim ❤️
 - 📫 How to reach me: https://t.me/Siderean
 <!--
 **SidereaH/SidereaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
