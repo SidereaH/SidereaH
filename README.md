@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Java Spring Framework
-- 🔭 Student from Rostov-on-Don, 17 y.o.
+- 🔭 Student from Rostov-on-Don, 18 y.o.
 - ✨ Backend, DevOps practice, OS - Fedora, IDE - Lazy NeoVim ❤️
 - 📫 How to reach me: https://t.me/Siderean
 <!--
