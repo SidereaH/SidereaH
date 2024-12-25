@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3500&pause=400&center=true&vCenter=true&width=435&height=40&lines=Hello!;I+am+Andrey+Siderea" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3500&pause=400&center=false&vCenter=true&width=435&height=40&lines=Hello!;I+am+Andrey+Siderea" alt="Typing SVG" /></a>
 
 <p>🌱 I’m currently learning Java Spring Framework</p>
 <p>🔭 Student from Rostov-on-Don, 18 y.o.</p>
