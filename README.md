@@ -54,3 +54,4 @@ No Activity Tracked This Week
 
  Last Updated on 25/12/2024 16:15:40 UTC
 <!--END_SECTION:waka-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=SidereaH&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
