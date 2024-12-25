@@ -26,4 +26,5 @@ jobs:
           SHOW_OS: True
           SYMBOL_VERSION: 3
           DEBUG_LOGGING: False
+          SHOW_LOC_CHART: False
           
