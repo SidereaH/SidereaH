@@ -27,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                253 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.78 % 
-🌆 Daytime                348 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.21 % 
-🌃 Evening                655 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.21 % 
-🌙 Night                  23 commits          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.80 % 
+🌞 Morning                253 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.72 % 
+🌆 Daytime                348 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.12 % 
+🌃 Evening                659 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.36 % 
+🌙 Night                  23 commits          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.79 % 
 ```
 
 
@@ -47,11 +47,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/SidereaH/SidereaH/main/assets/bar_graph.png)
-
-
- Last Updated on 25/12/2024 16:15:40 UTC
+ Last Updated on 25/12/2024 16:28:55 UTC
 <!--END_SECTION:waka-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=SidereaH&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
