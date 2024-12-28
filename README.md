@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3500&pause=400&center=false&vCenter=true&width=435&height=40&lines=Hello!;I+am+Andrey" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3500&pause=400&center=false&vCenter=true&width=435&height=40&lines=Hello!;I+am+Andrey" alt="Typing SVG" />
 
 <p>🌱 I’m currently learning Java Spring Boot. There is my technology stack:</p>
 
