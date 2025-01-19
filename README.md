@@ -55,4 +55,3 @@ Linux                    4 hrs 9 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 
 <!--END_SECTION:waka-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SidereaH&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
